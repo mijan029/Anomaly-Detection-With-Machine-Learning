@@ -1,1 +1,1 @@
-\nokay thi is last time
+This is Our Thesis project. The Code for CNN has been written in python.
